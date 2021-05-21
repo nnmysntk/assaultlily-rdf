@@ -865,8 +865,8 @@
   <schema:manufacturer rdf:resource="Amatsu_Heavy_Industry"/>
   <lily:user rdf:resource="Takehisa_Nakaba"/>
   <lily:user rdf:resource="Tsukioka_Momiji"/>
-  <!-- <lily:user rdf:resource="Katsuya_Fuyou"/> -->
-  <!-- <lily:user rdf:resource="Miyazaki_Hikaru"/> -->
+  <lily:user rdf:resource="Katsuya_Fuyou"/>
+  <lily:user rdf:resource="Miyazaki_Hikaru"/>
   <!-- <lily:additionalInformation xml:lang="ja"></lily:additionalInformation> -->
   <rdf:type rdf:resource="https://lily.fvhp.net/rdf/IRIs/lily_schema.ttl#Charm"/>
 </rdf:Description>
